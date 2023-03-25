@@ -1,0 +1,24 @@
+{
+  "name": "nasa-planets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.3.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucifer-1947/nasa-planets-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucifer-1947/nasa-planets-backend/issues"
+  },
+  "homepage": "https://github.com/lucifer-1947/nasa-planets-backend#readme",
+  "description": ""
+}
