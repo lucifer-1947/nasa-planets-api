@@ -7,6 +7,10 @@
 .AppleDouble
 .LSOverride
 
+# production
+/build
+/public
+
 # Icon must end with two \r
 Icon
 
